@@ -1,0 +1,43 @@
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\HtmlAgilityPack.dll
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\Mono.Security.dll
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\Npgsql.dll
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\policy.2.0.Npgsql.dll
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\HtmlAgilityPack.pdb
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\HtmlAgilityPack.xml
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\policy.2.0.Npgsql.config
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\Thor.Config.resources
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\Thor.Integra.resources
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\Thor.Properties.Resources.resources
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.csproj.GenerateResource.Cache
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.exe.config
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.exe.manifest
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.application
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.exe
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.pdb
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.exe.manifest
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.application
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.exe
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.pdb
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.csprojResolveAssemblyReference.cache
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.exe.config
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.exe.manifest
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.application
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.exe
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.pdb
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\bin\Release\Mono.Security.dll
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\bin\Release\Npgsql.dll
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\bin\Release\policy.2.0.Npgsql.dll
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\bin\Release\policy.2.0.Npgsql.config
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\Thor.Config.resources
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\Thor.Integra.resources
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\Thor.Properties.Resources.resources
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.exe.manifest
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.application
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.exe
+C:\Users\integra6\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.pdb
+C:\Users\integra1\Desktop\NFE_ERP\NF_HTML_Consulta\bin\Release\THOR 1.1.exe.config
+C:\Users\integra1\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.exe
+C:\Users\integra1\Desktop\NFE_ERP\NF_HTML_Consulta\obj\x86\Release\THOR 1.1.pdb

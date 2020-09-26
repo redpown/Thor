@@ -1,0 +1,35 @@
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\bin\Debug\Thor 1.0.exe.config
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\obj\x86\Debug\Thor.Properties.Resources.resources
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\bin\Debug\THOR 1.0.exe.manifest
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\bin\Debug\THOR 1.0.application
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\bin\Debug\THOR 1.0.exe
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\bin\Debug\THOR 1.0.pdb
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\obj\x86\Debug\Thor.Config.resources
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\obj\x86\Debug\Thor.Integra.resources
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\obj\x86\Debug\THOR 1.0.exe.manifest
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\obj\x86\Debug\THOR 1.0.application
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\obj\x86\Debug\THOR 1.0.exe
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NF_HTML_Consulta\NF_HTML_Consulta\obj\x86\Debug\THOR 1.0.pdb
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Debug\THOR 1.0.exe.config
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Debug\THOR 1.0.exe
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Debug\THOR 1.0.pdb
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Debug\THOR 1.0.exe.manifest
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Debug\THOR 1.0.application
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Debug\THOR 1.0.exe
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Debug\THOR 1.0.pdb
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Debug\Thor.Config.resources
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Debug\Thor.Integra.resources
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Debug\Thor.Properties.Resources.resources
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Debug\THOR 1.0.exe.manifest
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Debug\THOR 1.0.application
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Debug\HtmlAgilityPack.dll
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Debug\HtmlAgilityPack.xml
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Debug\THOR 1.0.csprojResolveAssemblyReference.cache
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\obj\x86\Debug\THOR 1.0.csproj.GenerateResource.Cache
+C:\Users\integra1\Documents\Visual Studio 2010\Projects\NFE_ERP\NF_HTML_Consulta\bin\Debug\THOR 1.1.exe.config

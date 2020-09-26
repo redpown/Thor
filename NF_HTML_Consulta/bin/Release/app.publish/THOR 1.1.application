@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assemblyIdentity name="THOR 1.1.application" version="1.0.0.19" publicKeyToken="226fa5b105dab7a8" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="THOR 1.1" asmv2:product="THOR 1.1" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <expiration maximumAge="0" unit="days" />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="file://10.1.1.253/Dados/admin/integra/Thor/THOR%201.1.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\THOR 1.1_1_0_0_19\THOR 1.1.exe.manifest" size="10178">
+      <assemblyIdentity name="THOR 1.1.exe" version="1.0.0.19" publicKeyToken="226fa5b105dab7a8" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>p23IqJIUQ3/dvlBlHJ7DYP3rV4I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=JJA\integra1" issuerKeyHash="6e9f8ad30fc074e43a5e7c443978a0d01b51142d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>OpHKA+dPIFix983/KX/+B2viOHo=</DigestValue></Reference></SignedInfo><SignatureValue>dgpfv9A2ItqoV1cafHNnuler3Ybusc5c++nsZznswxK6pX/k/dY6anddcyjOm/ZRdfwEitKKRr72YLqWgZ2Wn4vJDM8ga0wtEBPr8ZjV3Big5lEIK3atqiwjeXfb8OwuMcjJkUa3MUZCFb4BQrZwClKGDpfEq2TX7VzWq4dnyJU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zKBqXRXq+lmLDHC9wypYxpN9X0YPwj5HmeAlf/RRfkAzKL3Pk+Oi7ha26u6LvcHIP3TNg2YxZRCj15ZrJMbX7F0kJR/O2SWQszb+2beXW5Y+8MK9bol+PAaNpIiyun95yM54trOwnr/ZnC67V6f8oK9xtVoYi44PjysIoxPTjjE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7a38e26b07fe7f29ffcdf7b158204fe703ca913a" Description="" Url=""><as:assemblyIdentity name="THOR 1.1.application" version="1.0.0.19" publicKeyToken="226fa5b105dab7a8" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JJA\integra1</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>l0H24iPr10VrfwQXAjmaFPcnIRg=</DigestValue></Reference></SignedInfo><SignatureValue>W79EUlyccwWCtyoiPhix8GjMv6cZdPxZS9uTHsdKVK6ZlMVTcT3n5vtEkvDYB6XKMRnNsD5yng6fJ8TudEfGCmZV+FnOHeiBLG5cr6fCUHpzolDD+IavhXK4RcucA2hUiTv0p5LZGwGcbtu4mQAxSzh72y94r8g83pr/5UMatm8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zKBqXRXq+lmLDHC9wypYxpN9X0YPwj5HmeAlf/RRfkAzKL3Pk+Oi7ha26u6LvcHIP3TNg2YxZRCj15ZrJMbX7F0kJR/O2SWQszb+2beXW5Y+8MK9bol+PAaNpIiyun95yM54trOwnr/ZnC67V6f8oK9xtVoYi44PjysIoxPTjjE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQTQaAps/s7LZKMRXYMXECODANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgASgBKAEEAXABpAG4AdABlAGcAcgBhADEwHhcNMTQwMjEwMTQyNTQ4WhcNMTUwMjEwMjAyNTQ4WjAjMSEwHwYDVQQDHhgASgBKAEEAXABpAG4AdABlAGcAcgBhADEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMygal0V6vpZiwxwvcMqWMaTfV9GD8I+R5ngJX/0UX5AMyi9z5Pjou4Wturui73ByD90zYNmMWUQo9eWayTG1+xdJCUfztklkLM2/tm3l1uWPvDCvW6JfjwGjaSIsrp/ecjOeLazsJ6/2Zwuu1en/KCvcbVaGIuOD48rCKMT044xAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAYOvOj7k3Y8iUMw+fvpsrZwBUzAbT4yERLi84KK7cFuftgtQh3JMJilHMVgELwPGsw05mvhfoigbIYEPbTkgxEuyzcllnV9TQJeZ1w2PWaOFMerSCn5cn+lGJZM+21ONHM6TnZwcnljJopBLin6s/qq9H1lBTOczpqkxvWI2Mkvs=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
